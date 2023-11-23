@@ -6,23 +6,33 @@
       "email": "john@example.com",
       "password": "password",
       "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
-			"isBooked" : false
-    },
-    {
+      "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      ""
+      ],
+      "hourly_rate": "25",
+      "profile_picture": "https://img.freepik.com/premium-photo/young-handsome-adult-man-shouting-triumphantly-laughing-feeling-happy-excited-while-celebrating-success_1194-243953.jpg?size=626&ext=jpg",
+      "isBooked": false
+      },
+      {
       "id": 2,
       "name": "Jane Smith",
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
-    },
-    {
+      "skills": [
+      "Photoshop",
+      "Illustrator",
+      "",
+      ""
+      ],
+      "hourly_rate": "30",
+      "profile_picture": "https://img.freepik.com/free-photo/cheerful-dark-skinned-woman-smiling-broadly-rejoicing-her-victory-competition-among-young-writers-standing-isolated-against-grey-wall-people-success-youth-happiness-concept_273609-1246.jpg",
+      "isBooked": false
+      },
+      {
       "id": 3,
       "name": "Suriya",
       "email": "suriyasingaravel710@gmail.com",
@@ -37,10 +47,9 @@
       "hourly_rate": "40",
       "profile_picture": "https://media.istockphoto.com/id/1335941248/photo/shot-of-a-handsome-young-man-standing-against-a-grey-background.jpg?s=612x612&w=0&k=20&c=JSBpwVFm8vz23PZ44Rjn728NwmMtBa_DYL7qxrEWr38=",
       "isBooked": false
-     
       },
       {
-        "id": 4,  
+      "id": 4,
       "name": "Celina rose",
       "email": "celina@gmail.com",
       "password": "12345",
@@ -52,75 +61,292 @@
       "Figma"
       ],
       "hourly_rate": "60",
-      "profile_picture": "https://media.istockphoto.com/id/1319763830/photo/portrait-of-smiling-mixed-race-woman-looking-at-camera.jpg?s=612x612&w=0&k=20&c=L0d04sc89UuLW0G80UCu4egl0tQwyl8PLKsIZotbP_U=",
+      "profile_picture": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg",
       "isBooked": false
-      
       },
       {
-        "id": 5,
-        "name": "Bellamy blake",
-        "email": "bellamy@gmail.com",
-        "password": "bellamy$",
-        "profession": "Web Developer",
-        "skills": [
-        "Mern",
-        "HTML",
-        "CSS",
-        "Javascript"
-        ],
-        "hourly_rate": "40",
-        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoCIyzOUOBkQmltcaEkQFCpcCL-LP7F6ytNZstuwEtamTqO54FG-v_iOpnOdnQ4ScE68&usqp=CAU",
-        "isBooked": true
-        },
-        {
-          "id": 6, 
-        "name": "Celina rose",
-        "email": "celina@gmail.com",
-        "password": "12345",
-        "profession": "Graphic Designer",
-        "skills": [
-        "Adobe illustrator",
-        "Photoshop",
-        "Vector",
-        "Figma"
-        ],
-        "hourly_rate": "60",
-        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxFvIEb1klJhoV40745j9qCyxXPMvwwRMVw&usqp=CAU",
-        "isBooked": false
-
-        },
-        {
-          "id": 7,
-          "name": "John cena",
-          "email": "johnny@gmail.com",
-          "password": "john7",
-          "profession": "Graphic Designer",
-          "skills": [
-          "Lightroom",
-          "Photoshop",
-          "Figma",
-          "Illustrator"
-          ],
-          "hourly_rate": "40",
-          "profile_picture": "https://media.istockphoto.com/id/1096419446/photo/modern-cheerful-business-man-in-deep-blue-shirt-standing-with-crossed-arms-isolated-on-gray.jpg?s=612x612&w=0&k=20&c=r4f-QedoEjL9KU-H96imU5UI5594wFUj2A9PgD8JXGY=",
-          "isBooked": false
-         
-          },
-          {
-            "id": 8,  
-          "name": "Hailey grey",
-          "email": "hailey@gmail.com",
-          "password": "hailey",
-          "profession": "Graphic Designer",
-          "skills": [
-            "Java",
-            "HTML",
-            "CSS",
-            "Springboot"
-          ],
-          "hourly_rate": "60",
-          "profile_picture": "https://img.freepik.com/free-photo/headshot-beautiful-dark-skinned-curly-has-pleased-expression-rejoices-success-enjoys-spare-time-wears-casual-t-shirt-isolated-yellow-wall-people-positive-emotions-feelings-concept_273609-27729.jpg",
-          "isBooked": true
-          }
+      "id": 5,
+      "name": "Bellamy blake",
+      "email": "bellamy@gmail.com",
+      "password": "bellamy$",
+      "profession": "Web Developer",
+      "skills": [
+      "Mern",
+      "HTML",
+      "CSS",
+      "Javascript"
+      ],
+      "hourly_rate": "40",
+      "profile_picture": "https://img.freepik.com/premium-photo/handsome-adult-blond-man-scheming-conspiring-thinking-devious-tricks-cheats-cunning-betraying_1194-322682.jpg",
+      "isBooked": false
+      },
+      {
+      "id": 6,
+      "name": "Hermoine ranger",
+      "email": "ranger@gmail.com",
+      "password": "12345",
+      "profession": "Graphic Designer",
+      "skills": [
+      "Adobe illustrator",
+      "Photoshop",
+      "Vector",
+      "Figma"
+      ],
+      "hourly_rate": "60",
+      "profile_picture": "https://img.freepik.com/free-photo/displeased-sullen-female-has-discontent-expression-keeps-hands-crossed-shows-her-dislike-frowns-face-feels-unhappy-has-staight-dark-hair-poses-against-pink-wall-negative-emotions-concept_273609-16507.jpg",
+      "isBooked": false
+      },
+      {
+      "id": 7,
+      "name": "John cena",
+      "email": "johnny@gmail.com",
+      "password": "john7",
+      "profession": "Graphic Designer",
+      "skills": [
+      "Lightroom",
+      "Photoshop",
+      "Figma",
+      "Illustrator"
+      ],
+      "hourly_rate": "40",
+      "profile_picture": "https://media.istockphoto.com/id/1096419446/photo/modern-cheerful-business-man-in-deep-blue-shirt-standing-with-crossed-arms-isolated-on-gray.jpg?s=612x612&w=0&k=20&c=r4f-QedoEjL9KU-H96imU5UI5594wFUj2A9PgD8JXGY=",
+      "isBooked": true
+      },
+      {
+      "id": 8,
+      "name": "Hailey grey",
+      "email": "hailey@gmail.com",
+      "password": "hailey",
+      "profession": "Graphic Designer",
+      "skills": [
+      "Java",
+      "HTML",
+      "CSS",
+      "Springboot"
+      ],
+      "hourly_rate": "60",
+      "profile_picture": "https://img.freepik.com/free-photo/headshot-beautiful-dark-skinned-curly-has-pleased-expression-rejoices-success-enjoys-spare-time-wears-casual-t-shirt-isolated-yellow-wall-people-positive-emotions-feelings-concept_273609-27729.jpg",
+      "isBooked": false
+      },
+    {
+      "id": 9,
+      "name": "Liam Johnson",
+      "email": "liam@example.com",
+      "password": "liampass",
+      "profession": "Student",
+      "skills": ["Research", "Writing", "Mathematics"],
+      "hourly_rate": 20,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-handsome-man-feeling-shocked-surprised-smiling-taking-hand-heart-happy-be-one-showing-gratitude_1194-208776.jpg?size=626&ext=jpg",
+      "isBooked": false
+    },
+    {
+      "id": 10,
+      "name": "Olivia Martinez",
+      "email": "olivia@example.com",
+      "password": "oliviapass",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "hourly_rate": 35,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-man-scheming-conspiring-thinking-devious-tricks-cheats-cunning-betraying_1194-175866.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 11,
+      "name": "Jackson Chang",
+      "email": "jackson@example.com",
+      "password": "jackson123",
+      "profession": "Graphic Designer",
+      "skills": ["Illustrator", "Photoshop", "Typography"],
+      "hourly_rate": 40,
+      "profile_picture": "https://img.freepik.com/free-photo/studio-shot-shocked-european-female-model-stares-through-transparent-eyeglasses-keeps-mouth-widely-opened-from-astonishment_273609-45665.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699488000&semt=ais",
+      "isBooked": false
+    },
+    {
+      "id": 12,
+      "name": "Ava Turner",
+      "email": "ava@example.com",
+      "password": "avapass",
+      "profession": "Student",
+      "skills": ["Physics", "Chemistry", "Biology"],
+      "hourly_rate": 18,
+      "profile_picture": "https://img.freepik.com/premium-photo/positive-attractive-woman-showing-ok-sign-camera-approving-something-with-positive-expression_416530-29462.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 13,
+      "name": "Lucas Brown",
+      "email": "lucas@example.com",
+      "password": "lucas123",
+      "profession": "Web Developer",
+      "skills": ["Mern", "HTML", "CSS", "JavaScript"],
+      "hourly_rate": 30,
+      "profile_picture": "https://img.freepik.com/premium-photo/scheming-conspiring-thinking-devious-tricks-cheats-cunning-betraying_1194-486750.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 14,
+      "name": "Emma Chen",
+      "email": "emma@example.com",
+      "password": "emmapass",
+      "profession": "Graphic Designer",
+      "skills": ["Adobe Illustrator", "Photoshop", "Vector"],
+      "hourly_rate": 45,
+      "profile_picture": "https://img.freepik.com/free-photo/young-woman-isolated-white-wall_231208-11508.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 15,
+      "name": "Liam Rodriguez",
+      "email": "liamr@example.com",
+      "password": "liamrpass",
+      "profession": "Student",
+      "skills": ["History", "Literature", "Political Science"],
+      "hourly_rate": 22,
+      "profile_picture": "https://img.freepik.com/premium-photo/feeling-romantic-happy-love-smiling-cheerfully-holding-hands-close-heart_1194-106740.jpg?size=626&ext=jpg",
+      "isBooked": false
+    },
+    {
+      "id": 16,
+      "name": "Aria White",
+      "email": "aria@example.com",
+      "password": "ariapass",
+      "profession": "Web Developer",
+      "skills": ["React", "Node.js", "Express"],
+      "hourly_rate": 38,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-pretty-arab-woman-showing-number-two-with-fingers_1187-20578.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 17,
+      "name": "Ethan Kim",
+      "email": "ethan@example.com",
+      "password": "ethanpass",
+      "profession": "Graphic Designer",
+      "skills": ["Figma", "Adobe XD", "Typography"],
+      "hourly_rate": 42,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-man-looking-excited-surprised-pointing-side-upwards-copy-space_1194-151393.jpg?size=626&ext=jpg",
+      "isBooked": false
+    },
+    {
+      "id": 18,
+      "name": "Avery Turner",
+      "email": "avery@example.com",
+      "password": "averypass",
+      "profession": "Student",
+      "skills": ["Mathematics", "Physics", "Chemistry"],
+      "hourly_rate": 20,
+      "profile_picture": "https://img.freepik.com/free-photo/smiling-pretty-brunette-woman-looking-front-isolated-orange-wall_141793-66281.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 19,
+      "name": "Mia Smith",
+      "email": "mia@example.com",
+      "password": "miapass",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "hourly_rate": 35,
+      "profile_picture": "https://img.freepik.com/premium-photo/dreaming-achieving-goals-purposes_1187-300867.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1699747200&semt=ais",
+      "isBooked": true
+    },
+    {
+      "id": 20,
+      "name": "Noah Martinez",
+      "email": "noah@example.com",
+      "password": "noahpass",
+      "profession": "Graphic Designer",
+      "skills": ["Illustrator", "Photoshop", "Typography"],
+      "hourly_rate": 40,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-handsome-man-feeling-shocked-astonished-holding-face-hand-disbelief-with-mouth-wide-open_1194-286562.jpg?size=626&ext=jpg",
+      "isBooked": false
+    },
+    {
+      "id": 21,
+      "name": "Sophia Chang",
+      "email": "sophia@example.com",
+      "password": "sophiapass",
+      "profession": "Student",
+      "skills": ["Biology", "Chemistry", "Environmental Science"],
+      "hourly_rate": 18,
+      "profile_picture": "https://img.freepik.com/premium-photo/unhappy-looking-camera-with-sarcastic-expression_1187-300755.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 22,
+      "name": "Logan Brown",
+      "email": "logan@example.com",
+      "password": "logan123",
+      "profession": "Web Developer",
+      "skills": ["Mern", "HTML", "CSS", "JavaScript"],
+      "hourly_rate": 30,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-teenager-boy-looking-happy-proud-surprised-cheerfully-pointing-self-feeling-confident-lofty_1194-280668.jpg?size=626&ext=jpg",
+      "isBooked": true
+    },
+    {
+      "id": 23,
+      "name": "Abigail Chen",
+      "email": "abigail@example.com",
+      "password": "abigailpass",
+      "profession": "Graphic Designer",
+      "skills": ["Adobe Illustrator", "Photoshop", "Vector"],
+      "hourly_rate": 45,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-pretty-woman-looking-arrogant-successful-positive-proud-pointing-self_1194-193170.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 24,
+      "name": "Carter Rodriguez",
+      "email": "carterr@example.com",
+      "password": "carterpass",
+      "profession": "Student",
+      "skills": ["Physics", "Mathematics", "Computer Science"],
+      "hourly_rate": 22,
+      "profile_picture": "https://img.freepik.com/premium-photo/scheming-conspiring-thinking-devious-tricks-cheats-cunning-betraying_1194-505573.jpg?w=360",
+      "isBooked": false
+    },
+    {
+      "id": 25,
+      "name": "Ava White",
+      "email": "avaw@example.com",
+      "password": "avapass",
+      "profession": "Web Developer",
+      "skills": ["React", "Node.js", "Express"],
+      "hourly_rate": 38,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-mixed-race-woman-confident-keeping-hands-hips_1187-96753.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699747200&semt=ais",
+      "isBooked": true
+    },
+    {
+      "id": 26,
+      "name": "Jackson Kim",
+      "email": "jacksonk@example.com",
+      "password": "jacksonkpass",
+      "profession": "Graphic Designer",
+      "skills": ["Figma", "Adobe XD", "Typography"],
+      "hourly_rate": 42,
+      "profile_picture": "https://img.freepik.com/premium-photo/hispanic-handsome-man-looking-astonished-disbelief-pointing-object-side-saying-wow-unbelievable_1194-256252.jpg?size=626&ext=jpg",
+      "isBooked": false
+    },
+    {
+      "id": 27,
+      "name": "Isabella Turner",
+      "email": "isabellat@example.com",
+      "password": "isabellapass",
+      "profession": "Student",
+      "skills": ["Literature", "History", "Creative Writing"],
+      "hourly_rate": 25,
+      "profile_picture": "https://img.freepik.com/free-photo/portrait-frowning-grumpy-young-woman-looks-upset-offended-disappointed-by-something-standing_1258-190343.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698624000&semt=sph",
+      "isBooked": false
+    },
+    {
+      "id": 28,
+      "name": "Daniel Smith",
+      "email": "daniels@example.com",
+      "password": "danielpass",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "hourly_rate": 35,
+      "profile_picture": "https://img.freepik.com/premium-photo/young-handsome-man-feeling-happy-pointing-self-with-excited-holding-coffee-cup_1194-239730.jpg?size=626&ext=jpg",
+      "isBooked": true
+    }
   ]
 }
