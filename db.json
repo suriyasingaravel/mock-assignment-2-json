@@ -21,6 +21,106 @@
       "hourly_rate": 30,
       "profile_picture": "profile2.jpg",
 			"isBooked" : true
-    }
+    },
+    {
+      "id": 3,
+      "name": "Suriya",
+      "email": "suriyasingaravel710@gmail.com",
+      "password": "Vasanthi7$",
+      "profession": "Web Developer",
+      "skills": [
+      "Mern",
+      "HTML",
+      "CSS",
+      "Javascript"
+      ],
+      "hourly_rate": "40",
+      "profile_picture": "https://media.istockphoto.com/id/1335941248/photo/shot-of-a-handsome-young-man-standing-against-a-grey-background.jpg?s=612x612&w=0&k=20&c=JSBpwVFm8vz23PZ44Rjn728NwmMtBa_DYL7qxrEWr38=",
+      "isBooked": false
+     
+      },
+      {
+        "id": 4,  
+      "name": "Celina rose",
+      "email": "celina@gmail.com",
+      "password": "12345",
+      "profession": "Graphic Designer",
+      "skills": [
+      "Adobe illustrator",
+      "Photoshop",
+      "Vector",
+      "Figma"
+      ],
+      "hourly_rate": "60",
+      "profile_picture": "https://media.istockphoto.com/id/1319763830/photo/portrait-of-smiling-mixed-race-woman-looking-at-camera.jpg?s=612x612&w=0&k=20&c=L0d04sc89UuLW0G80UCu4egl0tQwyl8PLKsIZotbP_U=",
+      "isBooked": false
+      
+      },
+      {
+        "id": 5,
+        "name": "Bellamy blake",
+        "email": "bellamy@gmail.com",
+        "password": "bellamy$",
+        "profession": "Web Developer",
+        "skills": [
+        "Mern",
+        "HTML",
+        "CSS",
+        "Javascript"
+        ],
+        "hourly_rate": "40",
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoCIyzOUOBkQmltcaEkQFCpcCL-LP7F6ytNZstuwEtamTqO54FG-v_iOpnOdnQ4ScE68&usqp=CAU",
+        "isBooked": true
+        },
+        {
+          "id": 6, 
+        "name": "Celina rose",
+        "email": "celina@gmail.com",
+        "password": "12345",
+        "profession": "Graphic Designer",
+        "skills": [
+        "Adobe illustrator",
+        "Photoshop",
+        "Vector",
+        "Figma"
+        ],
+        "hourly_rate": "60",
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxFvIEb1klJhoV40745j9qCyxXPMvwwRMVw&usqp=CAU",
+        "isBooked": false
+
+        },
+        {
+          "id": 7,
+          "name": "John cena",
+          "email": "johnny@gmail.com",
+          "password": "john7",
+          "profession": "Graphic Designer",
+          "skills": [
+          "Lightroom",
+          "Photoshop",
+          "Figma",
+          "Illustrator"
+          ],
+          "hourly_rate": "40",
+          "profile_picture": "https://media.istockphoto.com/id/1096419446/photo/modern-cheerful-business-man-in-deep-blue-shirt-standing-with-crossed-arms-isolated-on-gray.jpg?s=612x612&w=0&k=20&c=r4f-QedoEjL9KU-H96imU5UI5594wFUj2A9PgD8JXGY=",
+          "isBooked": false
+         
+          },
+          {
+            "id": 8,  
+          "name": "Hailey grey",
+          "email": "hailey@gmail.com",
+          "password": "hailey",
+          "profession": "Graphic Designer",
+          "skills": [
+            "Java",
+            "HTML",
+            "CSS",
+            "Springboot"
+          ],
+          "hourly_rate": "60",
+          "profile_picture": "https://img.freepik.com/free-photo/headshot-beautiful-dark-skinned-curly-has-pleased-expression-rejoices-success-enjoys-spare-time-wears-casual-t-shirt-isolated-yellow-wall-people-positive-emotions-feelings-concept_273609-27729.jpg",
+          "isBooked": true
+          }
   ]
 }
